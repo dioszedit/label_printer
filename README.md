@@ -25,7 +25,7 @@ AZ APK fájlok telepítése mobilon és tableten akkor lehetséges, ha az Androi
 - **Élő előnézet:** A címke tartalma valós időben frissül a mezők kitöltése közben
 - **PDF generálás:** 100×60 mm-es címke méret, Roboto fonttal (magyar ékezetek teljes támogatása)
 - **Nyomtatás:** Android natív nyomtatás dialógus a `printing` package segítségével
-- **Respzonzív layout:** Telefonon egymás alatt, tableten vagy landscape nézet mobilon (azaz ≥ 600px) egymás mellett jelenik meg az űrlap és az előnézet
+- **Reszponzív layout:** Telefonon egymás alatt, tableten vagy landscape nézet mobilon (azaz ≥ 600px) egymás mellett jelenik meg az űrlap és az előnézet
 
 ## 5. Technológiai stack
 - Flutter - UI keretrendszer
