@@ -25,7 +25,7 @@ AZ APK fájlok telepítése mobilon és tableten akkor lehetséges, ha az Androi
 - **Élő előnézet:** A címke tartalma valós időben frissül a mezők kitöltése közben
 - **PDF generálás:** 100×60 mm-es címke méret, Roboto fonttal (magyar ékezetek teljes támogatása)
 - **Nyomtatás:** Android natív nyomtatás dialógus a `printing` package segítségével
-- **Responzív layout:** Telefonon egymás alatt, tableten vagy landscape nézet mobilon (azaz ≥ 600px) egymás mellett jelenik meg az űrlap és az előnézet
+- **Respzonzív layout:** Telefonon egymás alatt, tableten vagy landscape nézet mobilon (azaz ≥ 600px) egymás mellett jelenik meg az űrlap és az előnézet
 
 ## 5. Technológiai stack
 - Flutter - UI keretrendszer
@@ -158,6 +158,6 @@ A [NativePHP](https://nativephp.com/docs/mobile/3/getting-started/introduction) 
 - Kevesebb dokumentáció és harmadik féltől származó package
 
 A NativePHP-val egyenlőre nincs tapasztalatom, így olyan technológiát választottam, amit ismerek. 
-Szerintem a Flutter-ben való fejlesztés mellett szól a rengetek package (különösen a nyomtató integráció terén) és hogy széleskörben elterjedt és kiforrottabb.
+Szerintem a Flutter-ben való fejlesztés mellett szól a rengeteg package (különösen a nyomtató integráció terén) és hogy széleskörben elterjedt és kiforrottabb.
 
 
